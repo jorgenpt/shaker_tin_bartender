@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 "discord.py" = "*"
+google-api-core = "*"
+google-cloud-firestore = "*"
+pep8 = "*"
 
 [dev-packages]
 
